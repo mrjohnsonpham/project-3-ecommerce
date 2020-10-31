@@ -8,15 +8,15 @@ import ProductList from './components/ProductList';
 
 
 
-
 function App() {
   return (
     <React.Fragment>
       <Navbar />
       <Switch>
-      <Route exact path='/' component={ProductList} />
+        <Route exact path='/' component={ProductList} />
+
       </Switch>
-      {/* <Modal /> */}
+
     </React.Fragment>
   );
 }
