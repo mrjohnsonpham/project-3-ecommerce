@@ -14,7 +14,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "Cargo Pants - Premium Brown",
-    img: "img/1pants1.png",
+    img: "img/1pants1.jpg",
     price: 16,
     company: "CP",
     info:
@@ -26,7 +26,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "Cargo Pants - Premium Brown",
-    img: "img/2pants2.png",
+    img: "img/2pants2.jpg",
     price: 8,
     company: "CP",
     info:
@@ -38,7 +38,7 @@ export const storeProducts = [
   {
     id: 4,
     title: "Cargo Pants - Premium Brown",
-    img: "img/cargo1.png",
+    img: "img/2shirt2.jpg",
     price: 18,
     company: "CP",
     info:
@@ -50,7 +50,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "Cargo Pants - Premium Brown",
-    img: "img/cargo1.png",
+    img: "img/3jeans3.jpg",
     price: 24,
     company: "CP",
     info:
@@ -62,7 +62,7 @@ export const storeProducts = [
   {
     id: 6,
     title: "Cargo Pants - Premium Brown",
-    img: "img/cargo1.png",
+    img: "img/3sweater3.jpg",
     price: 17,
     company: "CP",
     info:
@@ -74,7 +74,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "Cargo Pants - Premium Brown",
-    img: "img/cargo1.png",
+    img: "img/4shirt4.jpg",
     price: 30,
     company: "CP",
     info:
@@ -86,7 +86,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "Cargo Pants - Premium Brown",
-    img: "img/cargo1.png",
+    img: "img/4shorts4.jpg",
     price: 2,
     company: "CP",
     info:

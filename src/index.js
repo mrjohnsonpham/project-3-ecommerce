@@ -7,7 +7,7 @@ import { ProductProvider } from './context'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    <ProductProvider>
+    <ProductProvider> 
         <Router>
             <App />
         </Router>
