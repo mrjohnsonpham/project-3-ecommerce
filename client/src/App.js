@@ -4,6 +4,8 @@ import { Route, Switch } from 'react-router-dom'
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Navbar from './components/Navbar';
+import ProductList from './components/ProductList';
+
 
 
 
@@ -12,7 +14,7 @@ function App() {
     <React.Fragment>
       <Navbar />
       <Switch>
-       
+      <Route exact path='/' component={ProductList} />
       </Switch>
       {/* <Modal /> */}
     </React.Fragment>
